@@ -16,8 +16,9 @@ for example:
   cd "d:/coding/pygame/gravity/code"
   python main.py
 
-pls tell if u find a bug
+pls tell if u find a bug because this is just a prototype
 
-ASSETS CREDITS
+<--------------------- CREDITS ------------------------------>
 
+CREATIVITY -------> RJ (friend)
 TILESETS----> CAINOS (https://cainos.itch.io/)
