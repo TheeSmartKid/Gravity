@@ -3,6 +3,7 @@ TO MAKE SURE THIS WORKS MAKES SURE YOU HAVE PYTHON INSTALLED
 ONCE YOU HAVE PYTHON INSTALLED, WRITE THE FOLLOWING COMMAND
 
   pip install pygame
+  
   pip install pytmx
 
 once you have done that whenever you wana play open terminal and write the following command:
