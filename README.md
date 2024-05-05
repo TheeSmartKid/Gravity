@@ -21,6 +21,6 @@ pls tell if u find a bug because this is just a prototype
 
 <--------------------- CREDITS ------------------------------>
 
-CREATIVITY -------> RJ (YO)
+CREATIVITY -------> RJ   ![image](https://i.ytimg.com/vi/DLCOFFPW-JM/mqdefault.jpg)
 
 TILESETS----> CAINOS (https://cainos.itch.io/)
