@@ -20,6 +20,6 @@ pls tell if u find a bug because this is just a prototype
 
 <--------------------- CREDITS ------------------------------>
 
-CREATIVITY -------> RJ (friend)
+CREATIVITY -------> RJ (YO)
 
 TILESETS----> CAINOS (https://cainos.itch.io/)
