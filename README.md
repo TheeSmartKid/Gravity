@@ -8,6 +8,7 @@ ONCE YOU HAVE PYTHON INSTALLED, WRITE THE FOLLOWING COMMAND
 
 once you have done that whenever you wana play open terminal and write the following command:
   cd "directory name"
+  
   python main.py
 
 for example:
